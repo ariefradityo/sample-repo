@@ -1,2 +1,2 @@
 initial content
-second content
+new -feature
