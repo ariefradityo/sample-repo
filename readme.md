@@ -1,2 +1,2 @@
 initial content
-new -feature
+new -feature - conflict 2222
